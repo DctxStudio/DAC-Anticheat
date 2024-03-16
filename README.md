@@ -24,7 +24,7 @@ Installing DAC is simple and straightforward:
 
 Join our Discord community for support, updates, and discussions:
 
-[![Discord](https://img.shields.io/badge/Join-Discord-7289DA?logo=discord&style=for-the-badge)](https://discord.com/invite/yourdiscordidhere)
+[![Discord](https://img.shields.io/badge/Join-Discord-7289DA?logo=discord&style=for-the-badge)](https://discord.com/invite/g4yrcbVert)
 
 ### 🛡️ Stay Secure with DAC
 
