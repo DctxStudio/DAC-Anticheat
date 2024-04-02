@@ -13,6 +13,10 @@ Installing DAC is simple and straightforward:
 3. Head to the prices channel on Discord to check our pricing plans.
 4. Create a ticket in Discord, and our staff will assist you further!
 
+### Checks (Total)
+
+- Total Checks = **90**
+
 ### 🛡️ Features
 
 - Hacker and Spammers protected and prevention.
