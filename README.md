@@ -9,13 +9,13 @@ Welcome to DAC (DctxAntiCheat), your trusted paid anticheat solution for PocketM
 Installing DAC is simple and straightforward:
 
 1. Visit our [DAC Official Website](https://dacmc.netlify.app/) to learn more about our anticheat solution.
-2. Join our Discord community to get support, updates and to purchase dac [![Discord](https://img.shields.io/badge/Join-Discord-7289DA?logo=discord&style=for-the-badge)](https://discord.com/invite/g4yrcbVert)
+2. Join our Discord community to get support, updates and to purchase dac [![Discord](https://img.shields.io/badge/Join-Discord-7289DA?logo=discord&style=for-the-badge)](https://discord.gg/95SANsxxxd)
 3. Head to the prices channel on Discord to check our pricing plans.
 4. Create a ticket in Discord, and our staff will assist you further!
 
 ### Checks (Total)
 
-- Total Checks = **90**
+- Total Checks = **116**
 
 ### 🛡️ Features
 
@@ -28,7 +28,7 @@ Installing DAC is simple and straightforward:
 
 Join our Discord community for support, updates, and discussions:
 
-[![Discord](https://img.shields.io/badge/Join-Discord-7289DA?logo=discord&style=for-the-badge)](https://discord.com/invite/g4yrcbVert)
+[![Discord](https://img.shields.io/badge/Join-Discord-7289DA?logo=discord&style=for-the-badge)](https://discord.gg/95SANsxxxd)
 
 ### 🛡️ Stay Secure with DAC
 
