@@ -15,7 +15,9 @@ Installing DAC is simple and straightforward:
 
 ### Checks (Total)
 
-- Total Checks = **116**
+- Total Checks = **120**
+
+*You can see our checks in Checks.md*
 
 ### 🛡️ Features
 
