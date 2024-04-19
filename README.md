@@ -15,7 +15,7 @@ Installing DAC is simple and straightforward:
 
 ### Checks (Total)
 
-- Total Checks = **120**
+- Total Checks = **137**
 
 | Check              | SubType | Count | Detection Rate |
 |--------------------|---------|-------|----------------|
